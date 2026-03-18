@@ -6,7 +6,7 @@ This project simulates a chat experience with an AI-like response system.
 
 ## 🌐 Live Demo
 
-[🚀 View Live App](my-chat-nextjs-sepia.vercel.app)
+[🚀 View Live App](https://my-chat-nextjs-sepia.vercel.app/)
 
 ---
 
