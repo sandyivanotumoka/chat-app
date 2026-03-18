@@ -3,6 +3,11 @@
 A simple and lightweight chat application built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
 This project simulates a chat experience with an AI-like response system.
 
+
+## 🌐 Live Demo
+
+my-chat-nextjs-sepia.vercel.app
+
 ---
 
 ## 🚀 Features
